@@ -21,21 +21,8 @@ I enjoy building:
 - OpenGL
 - Git / GitHub
 
-##  What I'm Working On
 
-I'm currently working on personal projects and experimenting with different programming languages, frameworks, and technologies.
 
-##  Currently Learning
-
-I'm always learning and improving my programming skills, especially in **C/C++, graphics programming, game development, and software development**.
-
-##  My Projects
-
-Check out my repositories to see what I'm working on!
-
-##  Contact
-
-Feel free to check out my repositories and follow my projects here on GitHub!
 
 <!---
 SandbergAlexander/SandbergAlexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
