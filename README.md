@@ -10,7 +10,7 @@ I enjoy building:
 -  OpenGL Projects
 -  vulkan projects
 
-##  Technologies & Tools
+## Programming Languages & Tools
 
 - C / C++
 - Python
