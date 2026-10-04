@@ -1,6 +1,6 @@
 # Hi, my name is Alexander Sandberg
 
-I'm a programmer interested in **C, C++, Python, PHP, SQL, JavaScript, and C#**.
+I'm a programmer interested in **C, C++, c# **.
 
 I enjoy building:
 
@@ -10,16 +10,11 @@ I enjoy building:
 -  OpenGL Projects
 -  vulkan projects
 
-## Programming Languages & Tools
+## Programming Languages
 
 - C / C++
-- Python
 - C#
-- PHP
-- JavaScript
-- SQL
 - OpenGL
-- Git / GitHub
 
 
 
