@@ -1,17 +1,10 @@
 # Hi, my name is Alexander Sandberg
-
-I'm a programmer interested in **C, C++, c# **.
-
 I enjoy building:
-
 -  Web applications
 -  Games
 -  Desktop applications
--  OpenGL Projects
--  vulkan projects
 
 ## Programming Languages
-
 - C / C++
 - C#
 - OpenGL
